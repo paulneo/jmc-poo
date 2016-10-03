@@ -5,7 +5,7 @@
  */
 
 package pe.edu.upeu;
-
+//clase alumno
 /**
  *
  * @author Alumnos
